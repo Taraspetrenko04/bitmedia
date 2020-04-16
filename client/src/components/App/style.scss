@@ -1,0 +1,25 @@
+
+/* @media all and (min-width : 240px) {}
+@media (min-width:640px) {}
+@media (min-width:960px) {}
+@media (min-width:1440px) {} */
+
+@media all and (min-width : 240px) {
+    body{
+        font-family: 'Montserrat', sans-serif;
+    }
+    button{
+        cursor: pointer;
+    }
+    .text-bold{
+        font-weight: 700;
+    }
+    
+}
+@media (min-width:640px) {}
+@media (min-width:960px) {
+    
+}
+@media (min-width:1440px) {
+    
+} 

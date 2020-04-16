@@ -1,0 +1,53 @@
+@media all and (min-width : 240px) {}
+@media (min-width:640px) {}
+@media (min-width:960px) {}
+@media (min-width:1440px) {
+    .loveApp{
+        max-width: 1180px;
+        margin: 0 auto;
+    }
+    .loveApp__title{
+        font-size: 32px;
+        line-height: 39px;
+        text-align: center;
+        max-width: 580px;
+        margin: 17px auto 0px auto;
+    }
+    .loveApp__text{
+        font-size: 20px;
+        line-height: 28px;
+        text-align: center;
+        max-width: 780px;
+        margin: 23px auto 0px auto;
+    }
+    .loveApp__wrapper{
+        margin-top: 43px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .loveApp__item{
+        text-align: center;
+        width: 380px;
+        border-radius: 27px;
+        box-shadow: 0 0 4px  rgba(0,0,0,0.16);
+    }
+    .loveApp__img{
+        margin-top: 45px;
+    }
+    .loveApp__left{
+        margin-left: 20px;
+    }
+    .loveApp_name{
+        margin-top: 38px;
+        font-size: 24px;
+        line-height: 29px;
+        font-weight: 700;
+    }
+    .loveApp_font{
+        width: 316px;
+        text-align: center;
+        margin: 16px auto 47px auto;
+        font-size: 16px;
+        line-height: 23px;
+    }
+}
