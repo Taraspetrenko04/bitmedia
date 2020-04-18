@@ -1,21 +1,20 @@
-import React, { Component, Fragment } from "react";
+import React, { Component } from "react";
+import { Switch, Route } from 'react-router-dom'
 import './style.scss';
 
-import Header from '../Header/Header';
-import LoveApp from '../LoveApp/LoveApp';
+
+import Layout from '../Layout/Layout';
+import ViewStats from "../ViewStats/ViewStats";
 
 
 
 class App extends Component {
   render() {
     return (
-      <Fragment>
-            <Header />
-            <LoveApp />
-            {/* <Services />
-            <OurProjects />
-            <Footer /> */}
-        </Fragment>
+        <Switch>
+          <Route exact path='/' component={Layout}/>
+          <Route path='/viewStats' component={ViewStats}/>
+        </Switch>
       )}
 }
 export default App;

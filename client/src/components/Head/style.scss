@@ -1,0 +1,19 @@
+@media all and (min-width : 240px) {}
+@media (min-width:640px) {}
+@media (min-width:960px) {}
+@media (min-width:1440px) {
+    .head{
+        max-width: 1440px;
+        margin: 0 auto;
+        padding: 0px 130px 0px 130px;
+        background-color: #3A80BA;
+    }
+    .head__slogan{
+        display: inline-block;
+        font-size: 40px;
+        line-height: 49px;
+        color: #FFFFFF;
+        padding-bottom: 13px;
+        padding-top: 10px;
+    }
+}

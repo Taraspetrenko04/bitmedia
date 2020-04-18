@@ -1,0 +1,96 @@
+@media all and (min-width : 240px) {}
+@media (min-width:640px) {}
+@media (min-width:960px) {}
+@media (min-width:1440px) {
+    .pricing{
+        max-width: 1440px;
+        position: relative;
+        margin: 62px auto 0px auto;
+    }
+    .pricing__img{
+        position: absolute;
+        right: 0;
+        z-index: -2;
+    }
+    .pricing__title{
+        font-size: 32px;
+        line-height: 39px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .pricing__description{
+        font-size: 20px;
+        width: 630px;
+        text-align: center;
+        line-height: 26px;
+        margin: 25px auto 0px auto;
+    }
+    .pricing__container{
+        margin: 35px auto 0px auto;
+        display: flex;
+        justify-content: space-between;
+        max-width: 1180px;
+    }
+    .pricing__item{
+        text-align: center;
+        width: 380px;
+        border-radius: 27px;
+        box-shadow: 0 0 4px  rgba(0,0,0,0.16);
+    }
+    .pricing__item:hover .pricing__price{
+        color: #3A80BA;
+        font-size: 56px;
+        line-height: 68px;
+        margin-bottom: 1px;
+    }
+    .pricing__name{
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 29px;
+        text-align: center;
+        color: #1A1A1A;
+        margin-top: 32px;
+        margin-bottom: 17px;
+    }
+    .pricing__price{
+        font-weight: bold;
+        font-size: 48px;
+        line-height: 59px;
+        color: #1A1A1A;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    .pricing__line{
+
+    }
+    .pricing__text{
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        color: #7E7E7E;
+        margin-top: 22px;
+    }
+    .pricing__button{
+        font-size: 16px;
+        line-height: 23px;
+        color: #FFFFFF;
+        background-color: #3A80BA;
+        border-radius: 8px;
+        padding: 16px 52px 17px 53px;
+        padding: 17px 52px 15px 53px;
+        margin-top: 21px;
+        margin-bottom: 38px;
+        letter-spacing: 1.04px;
+    }
+    .pricing__button:hover{
+        background-color: #ffff;
+        color:#3A80BA;
+    }
+    .pricing__contactUs{
+        font-size: 20px;
+        line-height: 28px;
+        text-align: center;
+        color: #7E7E7E;
+        margin-top: 34px;
+    }
+}

@@ -1,6 +1,6 @@
 {
   "homepage": "https://taraspetrenko04.github.io/bitmedia/",
-  "name": "struct",
+  "name": "bitmedia",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

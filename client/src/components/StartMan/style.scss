@@ -1,0 +1,51 @@
+@media all and (min-width : 240px) {}
+@media (min-width:640px) {}
+@media (min-width:960px) {}
+@media (min-width:1440px) {
+    .startMan{
+        width: 1440px;
+        background: linear-gradient(93.19deg, #255D8B 2.29%, #3A80BA 96.79%);
+        margin: 116px auto 0 auto;
+    }
+    .startMan__container{
+        max-width: 1180px;
+        margin: auto;
+        position: relative;
+    }
+    .startMan__title{
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 39px;
+        width: 580px;
+        padding-top: 72px;
+        color: #ffff;
+    }
+    .startMan__text{
+        font-size: 16px;
+        width: 580px;
+        color: #ffff;
+        margin-top: 18px;
+        line-height: 22.5px;
+    }
+    .startMan__button{
+        color: #255D8C;
+        background-color: #ffff;
+        border: none;
+        font-size: 16px;
+        padding: 19px 64px 19px 64px;
+        border-radius: 10px;
+        margin-top: 25px;
+        margin-bottom: 79px;
+        letter-spacing: 1.07px;
+    }
+    .startMan__button:hover{
+        background-color: rgb(49, 114, 167);
+        color: #ffff
+    }
+    .startMan__mac{
+        position: absolute;
+        left: 41.5%;
+        top: -8%;
+    }
+}
+
