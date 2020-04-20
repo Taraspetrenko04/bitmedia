@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/bitmedia/static/css/main.d39c32b9.chunk.css",
-    "main.js": "/bitmedia/static/js/main.03b0dc00.chunk.js",
-    "main.js.map": "/bitmedia/static/js/main.03b0dc00.chunk.js.map",
+    "main.css": "/bitmedia/static/css/main.933b82a6.chunk.css",
+    "main.js": "/bitmedia/static/js/main.a1252959.chunk.js",
+    "main.js.map": "/bitmedia/static/js/main.a1252959.chunk.js.map",
     "runtime-main.js": "/bitmedia/static/js/runtime-main.9967ef41.js",
     "runtime-main.js.map": "/bitmedia/static/js/runtime-main.9967ef41.js.map",
     "static/css/2.99fb4a7b.chunk.css": "/bitmedia/static/css/2.99fb4a7b.chunk.css",
-    "static/js/2.6bc71946.chunk.js": "/bitmedia/static/js/2.6bc71946.chunk.js",
-    "static/js/2.6bc71946.chunk.js.map": "/bitmedia/static/js/2.6bc71946.chunk.js.map",
+    "static/js/2.0292edbb.chunk.js": "/bitmedia/static/js/2.0292edbb.chunk.js",
+    "static/js/2.0292edbb.chunk.js.map": "/bitmedia/static/js/2.0292edbb.chunk.js.map",
     "index.html": "/bitmedia/index.html",
-    "precache-manifest.07e6c737aada9fc7abfdf1534f4d8fc5.js": "/bitmedia/precache-manifest.07e6c737aada9fc7abfdf1534f4d8fc5.js",
+    "precache-manifest.e9550b37f3ac39a861bfe6fe9072ba8a.js": "/bitmedia/precache-manifest.e9550b37f3ac39a861bfe6fe9072ba8a.js",
     "service-worker.js": "/bitmedia/service-worker.js",
     "static/css/2.99fb4a7b.chunk.css.map": "/bitmedia/static/css/2.99fb4a7b.chunk.css.map",
-    "static/css/main.d39c32b9.chunk.css.map": "/bitmedia/static/css/main.d39c32b9.chunk.css.map",
-    "static/js/2.6bc71946.chunk.js.LICENSE.txt": "/bitmedia/static/js/2.6bc71946.chunk.js.LICENSE.txt",
+    "static/css/main.933b82a6.chunk.css.map": "/bitmedia/static/css/main.933b82a6.chunk.css.map",
+    "static/js/2.0292edbb.chunk.js.LICENSE.txt": "/bitmedia/static/js/2.0292edbb.chunk.js.LICENSE.txt",
     "static/media/clean.png": "/bitmedia/static/media/clean.be0890ff.png",
     "static/media/style.scss": "/bitmedia/static/media/header_bg.b2e5e023.png",
     "static/media/macbook.png": "/bitmedia/static/media/macbook.c369c1dc.png",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.9967ef41.js",
     "static/css/2.99fb4a7b.chunk.css",
-    "static/js/2.6bc71946.chunk.js",
-    "static/css/main.d39c32b9.chunk.css",
-    "static/js/main.03b0dc00.chunk.js"
+    "static/js/2.0292edbb.chunk.js",
+    "static/css/main.933b82a6.chunk.css",
+    "static/js/main.a1252959.chunk.js"
   ]
 }
